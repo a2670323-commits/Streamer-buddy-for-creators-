@@ -1,0 +1,6 @@
+{
+  "name": "Streamer Buddy for Creators",
+  "description": "Mobile streaming command center for live creators with broadcast quality controls, HUD overlays, audio tools, and Gemini AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

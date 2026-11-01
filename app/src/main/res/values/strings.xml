@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Streamer Buddy</string>
+    <string name="app_bar_title">Streamer Buddy for Creators</string>
+    <string name="status_unlinked_title">YouTube Account (Unlinked)</string>
+    <string name="status_unlinked_desc">Connect your channel to sync live chat, stream keys, and broadcast health.</string>
+    <string name="btn_link_channel">Link Channel</string>
+    <string name="btn_unlink_channel">Unlink</string>
+    <string name="btn_go_live">GO LIVE</string>
+    <string name="go_live_subtitle">Broadcast directly to YouTube with studio overlays</string>
+    <string name="section_shortcuts">Quick Shortcuts</string>
+    <string name="section_presets">Streaming Presets</string>
+    <string name="shortcut_voice_room">Voice Room</string>
+    <string name="shortcut_voice_desc">Audio mixer, noise gate &amp; soundboard</string>
+    <string name="shortcut_hud_studio">HUD Studio</string>
+    <string name="shortcut_hud_desc">Custom overlays, chat box &amp; alerts</string>
+    <string name="shortcut_settings">Settings</string>
+    <string name="shortcut_settings_desc">Stream keys, bitrate &amp; video encoder</string>
+    <string name="shortcut_copilot">AI Co-Pilot</string>
+    <string name="shortcut_copilot_desc">Stream ideas, titles, hooks &amp; moderation</string>
+    <string name="preset_1080p">1080p 60fps</string>
+    <string name="preset_720p">720p 60fps</string>
+    <string name="preset_480p">480p 30fps</string>
+</resources>
